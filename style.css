@@ -4,3 +4,10 @@
   text-align: center;
 }
 /*Targeting the container and adding the css to it  */
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
